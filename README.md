@@ -63,8 +63,8 @@ By using this tool, you agree to use it responsibly and legally.<br>
 
 ### Python Dependencies<br>
 ```
-requests>=2.28.0<br>
-paramiko>=2.11.0<br>
+requests>=2.28.0
+paramiko>=2.11.0
 ```
 
 ---
@@ -74,13 +74,13 @@ paramiko>=2.11.0<br>
 ### Step 1: Clone the Repository<br>
 ```bash
 # Using HTTPS<br>
-git clone https://github.com/yourusername/pentest-toolkit.git<br>
+git clone https://github.com/ChandraSekharGhosh/Penetration-Testing-Toolkit.git
 
-# OR using SSH<br>
-git clone git@github.com:yourusername/pentest-toolkit.git<br>
+# OR using SSH
+git clone git@github.com:ChandraSekharGhosh/Penetration-Testing-Toolkit.git
 
-# Navigate to directory<br>
-cd pentest-toolkit<br>
+# Navigate to directory
+cd Penetration-Testing-Toolkit
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)<br>
