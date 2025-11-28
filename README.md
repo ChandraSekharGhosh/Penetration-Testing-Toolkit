@@ -1,4 +1,12 @@
 # Penetration-Testing-Toolkit
+
+Company: Codtech IT Solutions<br>
+Name: Chandra Sekhar Ghosh<br>
+Intern ID: CT04DR1779<br>
+Domain: Cybersecury and Ethical Hacking<br>
+Duration: 4 weeks<br>
+Mentor: Muzammil<br>
+
 A comprehensive, modular penetration testing toolkit written in Python for security professionals, ethical hackers, and students learning cybersecurity.
 
 ---
